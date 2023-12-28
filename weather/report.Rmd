@@ -1,0 +1,33 @@
+---
+title: "Weather toughness"
+output:
+  word_document: default
+  html_document: default
+date: "2023-12-10"
+---
+
+## Load data
+
+Source: https://github.com/vanviethieuanh/dataset/tree/main/weather
+
+A glimpse:
+
+```{r load, echo=FALSE}
+weather
+```
+
+## Transform
+
+Get the max diff (diff from the whole period, not daily diff):
+
+```{r transform, echo=FALSE}
+weather_summary
+```
+
+## Plot
+
+Clearly, Hanoi is on top:
+
+```{r plot, echo=FALSE}
+my_plot
+```

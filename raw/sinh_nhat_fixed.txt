@@ -1,0 +1,12 @@
+Tên               Tuổi
+----------------------
+Nguyễn Thị An     5
+Trần Văn Bình     4
+Phạm Thị Cúc      6
+Lê Minh Đức       5
+Hoàng Thị Lan     4
+Vũ Văn Long       6
+Ngô Thị Mai       5
+Đặng Minh Ngọc    4
+Lê Thị Hòa        6
+Trần Văn Phong    5

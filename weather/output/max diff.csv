@@ -1,0 +1,41 @@
+province,max of max,min of min,max diff
+Ha Noi,45,2,43
+Hoa Binh,46,3,43
+Hanoi,45,2,43
+Yen Bai,43,2,41
+Viet Tri,43,2,41
+Nam Dinh,43,4,39
+Thai Nguyen,42,4,38
+Uong Bi,37,2,35
+Thanh Hoa,41,6,35
+Hai Phong,39,5,34
+Vinh,40,6,34
+Hai Duong,40,6,34
+Play Cu,40,8,32
+Buon Me Thuot,42,10,32
+Hong Gai,35,4,31
+Cam Pha,34,4,30
+Hue,39,10,29
+Tam Ky,40,11,29
+Da Lat,36,8,28
+Bien Hoa,41,16,25
+Ho Chi Minh City,41,16,25
+Long Xuyen,40,15,25
+Can Tho,40,16,24
+Chau Doc,40,16,24
+Qui Nhon,36,12,24
+My Tho,41,17,24
+Tra Vinh,39,15,24
+Tuy Hoa,36,12,24
+Ben Tre,41,17,24
+Vinh Long,40,16,24
+Nha Trang,36,13,23
+Tan An,41,18,23
+Ca Mau,39,17,22
+Rach Gia,40,18,22
+Soc Trang,39,17,22
+Bac Lieu,39,17,22
+Phan Thiet,37,16,21
+Phan Rang,35,14,21
+Cam Ranh,35,14,21
+Vung Tau,35,19,16
